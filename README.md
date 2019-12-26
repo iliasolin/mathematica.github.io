@@ -9,8 +9,9 @@ For more details see [GitHub Flavored Markdown](https://guides.github.com/featur
 
 ### Download links
 
-[Python File](example.com) (it needs a Python IDLE)
-[Compiled EXEcutable](example.com) (doesn't need a Python ILDE)
+[Python File](example.com) (it needs a Python IDLE).
+
+[Compiled EXEcutable](example.com) (doesn't need a Python ILDE).
 
 ### Support or Contact
 
